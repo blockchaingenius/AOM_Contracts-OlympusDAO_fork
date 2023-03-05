@@ -1,1 +1,1 @@
-# hector-contracts
+# aom-contracts
